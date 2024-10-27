@@ -1,3 +1,3 @@
-# 🔥 Responsive Portfolio Website Ines Boukhris
+# 🔥 Responsive Portfolio Website Khalil Meftehi
 ### 🔥  Responsive Portfolio Website
 ![preview img](preview.png)
